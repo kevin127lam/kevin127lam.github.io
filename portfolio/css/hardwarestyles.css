@@ -195,6 +195,10 @@ span{
     margin: 2rem 0 3rem;
 }
 
+.project-types{
+    background: var(--second-bg-color);
+}
+
 .project-types h2{
     margin-bottom: 5rem;
 }
@@ -236,7 +240,7 @@ span{
 }
 
 .portfolio{
-    background: var(--second-bg-color);
+    background: var(--bg-color);
 }
 
 .portfolio h2{
